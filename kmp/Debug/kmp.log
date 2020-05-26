@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\代码\kmp\kmp\源.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\kmp\kmp\源.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  kmp.vcxproj -> F:\代码\kmp\Debug\kmp.exe
